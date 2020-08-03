@@ -6,4 +6,4 @@ The program will take a list of weapon names from the user (as many as the user 
 It will then list everything in an Excel worksheet (using openpyxl library) to compare which weapon has the highest amount of DPS by doing simple calculations.
 
 Every terraria player struggles deciding which weapon has the maximum DPS and potential in each part of the game, simply because its not written anywhere.
-Well, I changed it.
+Not anymore.
